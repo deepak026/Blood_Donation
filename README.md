@@ -1,7 +1,7 @@
 # Blood Donation
 Blood Donation is a Java-based project that aims to streamline the management of a blood donation system. It provides operators with essential functionalities to efficiently handle patient registration, blood sample details, availability tracking, patient history, and issuing blood to patients. The project utilizes Java, JavaFX, SceneBuilder, and MySQL on Oracle software.
 
-Features
+## Features
 Operator Login: Secure login system for operators to access the blood donation system.
 Patient Registration: Convenient registration process to capture patient information.
 Blood Sample Details: Comprehensive record-keeping of blood samples, including type, quantity, and other relevant data.
